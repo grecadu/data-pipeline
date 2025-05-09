@@ -1,0 +1,10 @@
+{"id": 1, "type": "click", "value": 10}
+{"id": 2, "type": "view",  "value": 5}
+{"id": 3, "type": "click", "value": 2}
+{"id": 4, "type": "purchase", "value": 100}
+{"id": 5, "type": "click", "value": 7}
+{"id": 6, "type": "view",  "value": 3}
+{"id": 7, "type": "click", "value": 1}
+{"id": 8, "type": "purchase", "value": 50}
+{"id": 9, "type": "view",  "value": 8}
+{"id": 10,"type": "click", "value": 4}
